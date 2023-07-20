@@ -41,7 +41,7 @@ http://serene-headland-22338.herokuapp.com/
 `npm start`
 
 #### The Server should now be running at http://localhost:3006/
-
+#### The render server should now be running at https://node-auth-f9an.onrender.com
 ## Folder Structure
 
 nodejs-auth <br>
